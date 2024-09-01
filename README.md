@@ -1,8 +1,9 @@
 # Takym
 Copyright (C) 2023 Takym.
 
-* Please see <https://takym.github.io>.
-* <https://takym.github.io> をご覧ください。
+* 「Takym」は「たかやま」と読みます。
+* Please pronounce "Takym" as TA-KA-YA-MA.
+* <https://takym.github.io>
 * [Yigty.ORG](https://github.com/YigtyORG/Yigty.ORG)
 * **Attention:** please do not fork or clone this repository.
 * **注意：** このリポジトリをフォークまたはクローンしないでください。
