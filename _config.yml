@@ -1,5 +1,6 @@
 title: takym.github.io
 theme: jekyll-theme-cayman
+description: "自分で作成したリポジトリの情報を集約しています。Aggregates and manages my repository information."
 google_analytics: UA-99298946-3
 include: [ README.md, LICENSE.md, THIRD_PARTY_NOTICE.md ]
 permalink: /blog/:categories/:year/:month/:day/:title:output_ext
